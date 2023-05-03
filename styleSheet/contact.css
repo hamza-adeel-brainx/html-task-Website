@@ -5,12 +5,7 @@
     padding: 10px;
     text-align: center
 }
-h1{
-    text-align: center
-}
+
 body{
     background: url(../images/background.jpg);
-}
-.home-img{
-    border: 5px solid black;
 }
