@@ -9,3 +9,9 @@
 body{
     background: url(../images/background.jpg);
 }
+ul {
+    list-style-type: none;
+  }
+  li{
+    display: inline;
+  }

@@ -17,3 +17,12 @@ body{
 .gallery{
    text-align: center;
 }
+ul {
+    list-style-type: none;
+  }
+li{
+    display: inline;
+  }
+.gallery-img{
+    border: 5px solid rgb(56, 2, 248);
+}
